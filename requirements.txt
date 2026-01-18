@@ -4,3 +4,4 @@ mediapipe
 numpy
 plotly
 pandas
+protobuf>=3.20,<4
